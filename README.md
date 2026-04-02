@@ -85,13 +85,12 @@ public:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuulvadLoveur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuulvadLoveur&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=6366f1"/>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuulvadLoveur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
 
 </div>
 
